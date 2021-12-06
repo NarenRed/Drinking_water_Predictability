@@ -2,7 +2,7 @@
 <P>Access to save drinking water is important for public health. According to the world health organization can improved water supply and sanitation and better management of water resources boost the economic growth and contribute to poverty reduction.<P
 
 
-pH :- The pH of water is an important metric in determining its acid–base balance. It can also be used to determine if the water is acidic or alkaline. The pH maximum allowable limit has been set at 6.5 to 8.5 by the WHO. The current investigation ranged from 6.52 to 6.83, which is within WHO guidelines.
+1.pH :- The pH of water is an important metric in determining its acid–base balance. It can also be used to determine if the water is acidic or alkaline. The pH maximum allowable limit has been set at 6.5 to 8.5 by the WHO. The current investigation ranged from 6.52 to 6.83, which is within WHO guidelines.
 
 2. Hardness :- Calcium and magnesium salts are the main causes of hardness. These salts are dissolved in water as it passes through geologic layers. The length of time water spends in contact with hardness-producing material influences the amount of hardness in raw water. The capacity of water to precipitate soap produced by Calcium and Magnesium was formerly termed as hardness.
 

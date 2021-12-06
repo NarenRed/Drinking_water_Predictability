@@ -1,5 +1,8 @@
 # Drinking_water_Predictability
-<P>Access to save drinking water is important for public health. According to the world health organization can improved water supply and sanitation and better management of water resources boost the economic growth and contribute to poverty reduction.<P
+<P>Access to save drinking water is important for public health. According to the world health organization can improved water supply and sanitation and better management of water resources boost the economic growth and contribute to poverty reduction.<P>
+  
+  
+![water](https://github.com/NarenRed/Drinking_water_Predictability/blob/main/water.jpg)
 
  **Water Quality Features**
 1.	ph: pH of water (0 to 14).

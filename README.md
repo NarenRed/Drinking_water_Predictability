@@ -1,6 +1,8 @@
 
 # Drinking_water_Predictability
 
+## Overview
+
 Access to save drinking water is important for public health. According to the world health organization can improved water supply and sanitation and better management of water resources boost the economic growth and contribute to poverty reduction.
 
 **Potable water**, commonly known as drinking water, is obtained from surface and underground sources and is treated to fulfil state and federal drinking water requirements. Microorganisms, bacteria, harmful compounds, viruses, and faeces are all removed from natural water sources. Drinking untreated, raw water can lead to gastrointestinal issues like diarrhoea, vomiting, and fever.
@@ -24,7 +26,34 @@ Not potable – 0
 
 The link to the dataset can be found [here]( https://www.kaggle.com/adityakadiwal/water-potability)
 
+We'll create various classifiers using the above dataset and will choose the best accuate predictor.
 
-  
+
+
+## The following steps to are performed in the building the classifier.
+
+* Importing the libraries.
+
+* Reading the dataset.
+
+* Null values treatment.
+
+* Visual representation of data.
+ 
+* Modeling 
+
+* Building the various classifiers
+
+* choosing the best one from the above classifiers.
+
+## to do in the local jupyter notebook.
+
+1. download the dataset from the [here]( https://www.kaggle.com/adityakadiwal/water-potability)
+
+2. download the kaggle notebook from [here](https://www.kaggle.com/penintinarenderreddy/water-potability-naren)
+
+3. run the code and test it with the new data.
+
+***************************************Thank you**************************************************************************
 
 

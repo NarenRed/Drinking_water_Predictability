@@ -54,6 +54,6 @@ We'll create various classifiers using the above dataset and will choose the bes
 
 3. run the code and test it with the new data.
 
-***************************************Thank you**************************************************************************
+*************************************** Thank you *************************************************************************
 
 
